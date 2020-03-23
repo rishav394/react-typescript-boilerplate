@@ -20,6 +20,11 @@
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
 	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "pretty-quick --staged"
+		}
+	},
 	"eslintConfig": {
 		"extends": "react-app"
 	},
@@ -34,5 +39,10 @@
 			"last 1 firefox version",
 			"last 1 safari version"
 		]
+	},
+	"devDependencies": {
+		"husky": "^4.2.3",
+		"prettier": "^2.0.1",
+		"pretty-quick": "^2.0.1"
 	}
 }
