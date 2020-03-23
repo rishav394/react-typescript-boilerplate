@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.js": "javascriptreact"
+	},
+	"prettier.packageManager": "yarn",
+	"eslint.packageManager": "yarn"
+}
