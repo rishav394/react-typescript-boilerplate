@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Typescript Boilerplate
+
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
+
+## Features
+* Uses [react-app-rewired](https://github.com/timarney/react-app-rewired) - You need not eject in order to change your babel config or override CRA in general
+* [Eslint](https://eslint.org/)  - Comes with eslint and pluggins required to work with prettier, typescript, react and react hooks
+* [Husky](https://github.com/typicode/husky) - Hooks at its finest
+* [Lint-staged](https://github.com/okonet/lint-staged) - Linting and code cleaning with support for partially staged files.
+* [Styled-component](https://styled-components.com/) - No more boring html tags
+* Removed junk dependencies
+* Place dependencies and dev-dependencies appropriately
 
 ## Available Scripts
 
