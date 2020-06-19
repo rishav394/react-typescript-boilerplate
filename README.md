@@ -7,7 +7,7 @@
 * [Eslint](https://eslint.org/)  - Comes with eslint and pluggins required to work with prettier, typescript, react and react hooks
 * [Husky](https://github.com/typicode/husky) - Hooks at its finest
 * [Lint-staged](https://github.com/okonet/lint-staged) - Linting and code cleaning with support for partially staged files.
-* [Styled-component](https://styled-components.com/) - No more boring html tags
+* [React router dom v5.2.0](https://github.com/ReactTraining/react-router) - Declarative routing for React
 * Removed junk dependencies
 * Place dependencies and dev-dependencies appropriately
 
